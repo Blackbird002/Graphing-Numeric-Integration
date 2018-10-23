@@ -20,18 +20,18 @@ ans = 44.844
 >> integrate(@(x) sin(x),-1,5,20,'mid')
 ans = 0.25761
 ```
-<img src="/Graphing-Numeric-Integration/Graph Pictures/midsin.JPG">
+<img src="/Graph Pictures/midsin.JPG">
 
 ### Trapezoidal Rule:
 ```
 >> integrate(@(x) sin(x),-1,5,10,'trap')
 ans = 0.24889
 ```
-<img src="/Graphing-Numeric-Integration/Graph Pictures/trapsin.JPG">
+<img src="/Graph Pictures/trapsin.JPG">
 
 ### Simpson's Rule:
 ```
 >> integrate(@(x) x.^2,-6,6,10,'simp')
 ans = 144.00
 ```
-<img src="/Graphing-Numeric-Integration/Graph Pictures/simpx^2.JPG">
+<img src="/Graph Pictures/simpx^2.JPG">
