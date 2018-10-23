@@ -6,7 +6,7 @@
 ans = 38.594
 
 ```
-![Image of Left Sum](/Graph Pictures/left.JPG)
+<img src="/Graph Pictures/left.JPG">
 
 ### Right Riemann Sum:
 ```
