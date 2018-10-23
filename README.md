@@ -13,7 +13,7 @@ ans = 38.594
 >> integrate(@(x) x.^2,0,5,20,'right')
 ans = 44.844
 ```
-<img src="/Graphing-Numeric-Integration/Graph Pictures/right.JPG">
+<img src="/Graph Pictures/right.JPG">
 
 ### Midpoint Rule:
 ```
